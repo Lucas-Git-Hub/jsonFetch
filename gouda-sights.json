@@ -1,0 +1,20 @@
+[
+    {
+        "key": 0,
+        "coordinates":{
+        "latitude": 52.01353536518806, 
+        "longitude": 4.707544400000001
+        },
+        "title":"De Spuitgast", 
+        "description":"Brandweerman standbeeld"
+    },
+    {
+        "key": 1,
+        "coordinates":{
+        "latitude": 52.01186056336226,
+        "longitude": 4.703842940739362
+        },
+        "title":"De Omgekeerde Wereld", 
+        "description":"Man tilt paard op zijn rug"
+    }
+]
